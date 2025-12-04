@@ -1,1 +1,1 @@
-# opencti-checker
+# opencti-personalized
